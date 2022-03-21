@@ -6,5 +6,6 @@
 
 My actual deplyed projects:
 - Note App: https://modest-chandrasekhar-93d585.netlify.app/
+- Color random Generator: https://stalwart-daffodil-3a2e42.netlify.app/
 
 
