@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KChojny
-- 👀 I’m interested in Software Architecture, Developer
-- 🌱 I’m currently learning JavaScripts frameworks and Mobile programming IDEs(Java / Android Studio, C# / Xamarin)
+- 👀 I’m interested in Software Architecture, Developer or Tester
+- 🌱 I’m currently learning JavaScripts frameworks like Angular, React and Node.
+- 🌱 I've got some experience in programming and testing mobile and web applications.
 - 💞️ I’m looking to collaborate on Programmer and Software Enginner
 - 📫 How to reach to write me in GitHub
 
